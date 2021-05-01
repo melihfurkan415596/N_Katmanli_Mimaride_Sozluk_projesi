@@ -1,0 +1,6 @@
+D:\MVC Projelerim\HAFTA 1\MvcProjeKampi\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\MVC Projelerim\HAFTA 1\MvcProjeKampi\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\MVC Projelerim\HAFTA 1\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+D:\MVC Projelerim\HAFTA 1\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\MVC Projelerim\HAFTA 1\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\MVC Projelerim\HAFTA 1\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.pdb

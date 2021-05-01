@@ -1,0 +1,17 @@
+D:\MVC Projelerim\HAFTA 1\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+D:\MVC Projelerim\HAFTA 1\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\MVC Projelerim\HAFTA 1\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\MVC Projelerim\HAFTA 1\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\MVC Projelerim\HAFTA 1\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\MVC Projelerim\HAFTA 1\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\MVC Projelerim\HAFTA 1\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\MVC Projelerim\HAFTA 1\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.dll
+D:\MVC Projelerim\HAFTA 1\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.pdb
+D:\MVC Projelerim\HAFTA 1\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+D:\MVC Projelerim\HAFTA 1\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\MVC Projelerim\HAFTA 1\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\MVC Projelerim\HAFTA 1\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\MVC Projelerim\HAFTA 1\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\MVC Projelerim\HAFTA 1\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\MVC Projelerim\HAFTA 1\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+D:\MVC Projelerim\HAFTA 1\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
